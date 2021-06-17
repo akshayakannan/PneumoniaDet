@@ -23,9 +23,11 @@ Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
                           
                           Testing    : 320  (35.4 Megabyte (MB))
                           
-	    
+RESULT 	    
 
 ![image](https://user-images.githubusercontent.com/45381288/122445034-c4f41b00-cfbe-11eb-80a5-b608162fbfed.png)
+
+
                           
                           
 
