@@ -6,10 +6,15 @@ Detecting Pneumonia in Chest X-ray Images CNNs and Pre-trained Models (VGG16 and
 Data set 
 
 Dataset Name     : Chest X-Ray Images (Pneumonia)
+
 Dataset Link     : Chest X-Ray Images (Pneumonia) Dataset (Kaggle)
 
+
 Dataset Details
+
 Dataset Name            : Chest X-Ray Images (Pneumonia)
+
+
 Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
                           Training   : 5216 (1.07 Gigabyte (GB))
                           Validation : 320  (42.8 Megabyte (MB))
